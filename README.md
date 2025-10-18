@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">I am currently an aspiring Computer Engineer student at the <a href="https://www.uc.pt/fctuc/">FCTUC (University of Coimbra)</a>, Portugal. My passion lies in **Cybersecurity**, with a strong focus on **Red Teaming** and penetration testing.</p>
+<p align="left">I am currently an aspiring Computer Engineer student at the <a href="https://www.uc.pt/fctuc/">FCTUC (University of Coimbra)</a>, Portugal. My passion lies in <b>Cybersecurity</b>, with a strong focus on <b>Red Teaming</b> and penetration testing.</p>
 
-<p align="left">I actively sharpen my offensive skills on hands-on platforms like **Hack The Box** and **TryHackMe**, constantly seeking new challenges to develop attack and defense techniques. I enjoy transforming code into powerful tools to solve complex security problems.</p>
+<p align="left">I actively sharpen my offensive skills on hands-on platforms like <b>Hack The Box</b> and <b>TryHackMe</b>, constantly seeking new challenges to develop attack and defense techniques. I enjoy transforming code into powerful tools to solve complex security problems.</p>
 
 ###
 
