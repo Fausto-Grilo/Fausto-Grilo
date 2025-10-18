@@ -11,8 +11,8 @@
 <h2 align="left">My Specialty: Red Teaming & Cybersecurity</h2>
 
 <div align="center">
-    <a href="**[INSERT YOUR HACK THE BOX PROFILE URL HERE]**" target="_blank">
-        <img src="https://img.shields.io/badge/Hack%20The%20Box-**[USERNAME]**-0077B6?style=for-the-badge&logo=hackthebox&logoColor=white&color=9FEF00" height="35" alt="Hack The Box Profile" />
+    <a href="https://app.hackthebox.com/users/638167" target="_blank">
+        <img src="https://img.shields.io/badge/Hack%20The%20Box-FaustoGrilo-0077B6?style=for-the-badge&logo=hackthebox&logoColor=white&color=9FEF00" height="35" alt="Hack The Box Profile" />
     </a>
     <a href="**[INSERT YOUR TRYHACKME PROFILE URL HERE]**" target="_blank">
         <img src="https://img.shields.io/badge/TryHackMe-**[USERNAME]**-000000?style=for-the-badge&logo=tryhackme&logoColor=white&color=FF544F" height="35" alt="TryHackMe Profile" />
