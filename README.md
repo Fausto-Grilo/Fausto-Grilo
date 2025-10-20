@@ -25,8 +25,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fausto-Grilo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" /> <br>
-  <img align="right" height="150" src="https://cdnb.artstation.com/p/assets/images/images/029/489/963/original/swapnil-lambe-swaptrap-img-1740.gif?1597719424" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fausto-Grilo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
@@ -34,7 +32,7 @@
 ###
 
 <h2 align="left">Tools and Technologies</h2>
-
+  <img align="right" height="150" src="https://cdnb.artstation.com/p/assets/images/images/029/489/963/original/swapnil-lambe-swaptrap-img-1740.gif?1597719424" />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
